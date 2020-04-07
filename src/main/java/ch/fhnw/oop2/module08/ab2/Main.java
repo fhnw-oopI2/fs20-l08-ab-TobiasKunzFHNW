@@ -8,6 +8,6 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-	//	Starter.main(args);
+		Starter.main(args);
 	}
 }
