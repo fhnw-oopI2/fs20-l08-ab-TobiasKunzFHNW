@@ -18,7 +18,7 @@ public class Starter extends Application {
 		Scene myScene = new Scene(rootPane);
 
 		primaryStage.titleProperty().bind(presentationModel.titleProperty());
-		primaryStage.setWidth(200);
+		primaryStage.setWidth(300);
 		primaryStage.setHeight(200);
 		primaryStage.setScene(myScene);
 		primaryStage.show();
